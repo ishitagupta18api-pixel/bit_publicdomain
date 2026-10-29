@@ -1,2 +1,2 @@
 # bit_publicdomain
-my public domain
+my public domain in github
